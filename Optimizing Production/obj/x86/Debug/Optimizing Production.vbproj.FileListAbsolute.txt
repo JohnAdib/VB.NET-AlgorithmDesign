@@ -1,0 +1,17 @@
+C:\Data\My Works\VB.NET\Algorithm Design\Optimizing Production\bin\Debug\Optimizing Production.exe
+C:\Data\My Works\VB.NET\Algorithm Design\Optimizing Production\bin\Debug\Optimizing Production.pdb
+C:\Data\My Works\VB.NET\Algorithm Design\Optimizing Production\bin\Debug\Optimizing Production.xml
+C:\Data\My Works\VB.NET\Algorithm Design\Optimizing Production\bin\Debug\fa-IR\Optimizing Production.resources.dll
+C:\Data\My Works\VB.NET\Algorithm Design\Optimizing Production\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Data\My Works\VB.NET\Algorithm Design\Optimizing Production\obj\x86\Debug\Optimizing_Production.MainForm.resources
+C:\Data\My Works\VB.NET\Algorithm Design\Optimizing Production\obj\x86\Debug\Optimizing_Production.Resources.resources
+C:\Data\My Works\VB.NET\Algorithm Design\Optimizing Production\obj\x86\Debug\Optimizing_Production.MainForm.fa-IR.resources
+C:\Data\My Works\VB.NET\Algorithm Design\Optimizing Production\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Data\My Works\VB.NET\Algorithm Design\Optimizing Production\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Data\My Works\VB.NET\Algorithm Design\Optimizing Production\obj\x86\Debug\fa-IR\Optimizing Production.resources.dll
+C:\Data\My Works\VB.NET\Algorithm Design\Optimizing Production\obj\x86\Debug\Optimizing Production.exe
+C:\Data\My Works\VB.NET\Algorithm Design\Optimizing Production\obj\x86\Debug\Optimizing Production.xml
+C:\Data\My Works\VB.NET\Algorithm Design\Optimizing Production\obj\x86\Debug\Optimizing Production.pdb
+C:\Data\My Works\VB.NET\Algorithm Design\Optimizing Production\bin\Debug\en-US\Optimizing Production.resources.dll
+C:\Data\My Works\VB.NET\Algorithm Design\Optimizing Production\obj\x86\Debug\Optimizing_Production.MainForm.en-US.resources
+C:\Data\My Works\VB.NET\Algorithm Design\Optimizing Production\obj\x86\Debug\en-US\Optimizing Production.resources.dll
